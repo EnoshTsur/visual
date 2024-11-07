@@ -1,0 +1,272 @@
+[
+  {
+    "Name": "David HaMagid",
+    "Age": 22,
+    "Uses_ChatGPT": true,
+    "Late_Submissions": 3,
+    "Class_Average": 88.5,
+    "Peer_Support_Count": 5,
+    "Course_ID": "A1"
+  },
+  {
+    "Name": "Ariel Ben HAim",
+    "Age": 178,
+    "Uses_ChatGPT": true,
+    "Late_Submissions": 13,
+    "Class_Average": 68.5,
+    "Peer_Support_Count": 15,
+    "Course_ID": "B2"
+  },
+  {
+    "Name": "Reuven Cohen",
+    "Age": 21,
+    "Uses_ChatGPT": false,
+    "Late_Submissions": null,
+    "Class_Average": 92.3,
+    "Peer_Support_Count": 8,
+    "Course_ID": "A1"
+  },
+  {
+    "Name": "Menachem Albert",
+    "Age": 39,
+    "Uses_ChatGPT": true,
+    "Late_Submissions": 1,
+    "Class_Average": 92.3,
+    "Peer_Support_Count": 2,
+    "Course_ID": "A2"
+  },
+  {
+    "Name": "Moti Amrami",
+    "Age": 17,
+    "Uses_ChatGPT": true,
+    "Late_Submissions": null,
+    "Class_Average": 99.3,
+    "Peer_Support_Count": 5,
+    "Course_ID": "B3"
+  },
+  {
+    "Name": "Yehuda Zeevi",
+    "Age": 23,
+    "Uses_ChatGPT": true,
+    "Late_Submissions": 4,
+    "Class_Average": null,
+    "Peer_Support_Count": 2,
+    "Course_ID": "B1"
+  },
+  {
+    "Name": "Yair Achrak",
+    "Age": null,
+    "Uses_ChatGPT": true,
+    "Late_Submissions": 0,
+    "Class_Average": 85.4,
+    "Peer_Support_Count": 10,
+    "Course_ID": "A2"
+  },
+  {
+    "Name": "Menachem Mendel Naftali",
+    "Age": 24,
+    "Uses_ChatGPT": false,
+    "Late_Submissions": 2,
+    "Class_Average": 94.1,
+    "Peer_Support_Count": null,
+    "Course_ID": "B2"
+  },
+  {
+    "Name": "Benjamin Talker",
+    "Age": 19,
+    "Uses_ChatGPT": true,
+    "Late_Submissions": 5,
+    "Class_Average": 82.3,
+    "Peer_Support_Count": 1,
+    "Course_ID": "B2"
+  },
+  {
+    "Name": "Chaim Tzvi Shtern",
+    "Age": 22,
+    "Uses_ChatGPT": null,
+    "Late_Submissions": 1,
+    "Class_Average": 89.7,
+    "Peer_Support_Count": 6,
+    "Course_ID": "B3"
+  },
+  {
+    "Name": "Yeshayahu Reiner",
+    "Age": 21,
+    "Uses_ChatGPT": true,
+    "Late_Submissions": 2,
+    "Class_Average": 88.9,
+    "Peer_Support_Count": 4,
+    "Course_ID": "A2"
+  },
+  {
+    "Name": "Aaron Oren",
+    "Age": 23,
+    "Uses_ChatGPT": true,
+    "Late_Submissions": 0,
+    "Class_Average": 93.2,
+    "Peer_Support_Count": 15,
+    "Course_ID": "B2"
+  },
+  {
+    "Name": "Mordechai Wexberg",
+    "Age": 15,
+    "Uses_ChatGPT": true,
+    "Late_Submissions": 0,
+    "Class_Average": 99.2,
+    "Peer_Support_Count": 1,
+    "Course_ID": "A1"
+  },
+  {
+    "Name": "Pinchas Goldberg",
+    "Age": 20,
+    "Uses_ChatGPT": false,
+    "Late_Submissions": null,
+    "Class_Average": 86.5,
+    "Peer_Support_Count": 3,
+    "Course_ID": "B2"
+  },
+  {
+    "Name": "Shlomo Erlinger",
+    "Age": 22,
+    "Uses_ChatGPT": true,
+    "Late_Submissions": 2,
+    "Class_Average": 92.5,
+    "Peer_Support_Count": 1,
+    "Course_ID": "A1"
+  },
+  {
+    "Name": "Tsvi Shtern",
+    "Age": 21,
+    "Uses_ChatGPT": false,
+    "Late_Submissions": 0,
+    "Class_Average": 99.5,
+    "Peer_Support_Count": 4,
+    "Course_ID": "A1"
+  },
+  {
+    "Name": "Eliahu Shmul",
+    "Age": 33,
+    "Uses_ChatGPT": true,
+    "Late_Submissions": 0,
+    "Class_Average": 99.5,
+    "Peer_Support_Count": 4,
+    "Course_ID": "B1"
+  },
+  {
+    "Name": "Eliezer Kalman",
+    "Age": 24,
+    "Uses_ChatGPT": true,
+    "Late_Submissions": 2,
+    "Class_Average": 89.5,
+    "Peer_Support_Count": 4,
+    "Course_ID": "B3"
+  },
+  {
+    "Name": "Elkana Rozental",
+    "Age": 18,
+    "Uses_ChatGPT": true,
+    "Late_Submissions": null,
+    "Class_Average": 79.5,
+    "Peer_Support_Count": 1,
+    "Course_ID": "A1"
+  },
+  {
+    "Name": "Yheonatan Shalomov",
+    "Age": 29,
+    "Uses_ChatGPT": false,
+    "Late_Submissions": 1,
+    "Class_Average": 86.5,
+    "Peer_Support_Count": 4,
+    "Course_ID": "B3"
+  },
+  {
+    "Name": "Tsvi Shtern",
+    "Age": 21,
+    "Uses_ChatGPT": false,
+    "Late_Submissions": 0,
+    "Class_Average": 99.5,
+    "Peer_Support_Count": 4,
+    "Course_ID": "A1"
+  },
+  {
+    "Name": "Nati Lintser",
+    "Age": 45,
+    "Uses_ChatGPT": false,
+    "Late_Submissions": 0,
+    "Class_Average": 99.9,
+    "Peer_Support_Count": 6,
+    "Course_ID": "A1"
+  },
+  {
+    "Name": "Menachem Cohen",
+    "Age": 17,
+    "Uses_ChatGPT": true,
+    "Late_Submissions": 0,
+    "Class_Average": 72.9,
+    "Peer_Support_Count": 6,
+    "Course_ID": "A2"
+  },
+  {
+    "Name": "Simcha Werscheviak",
+    "Age": null,
+    "Uses_ChatGPT": false,
+    "Late_Submissions": 1,
+    "Class_Average": 92.5,
+    "Peer_Support_Count": 5,
+    "Course_ID": "A2"
+  },
+  {
+    "Name": "Israel Freedless",
+    "Age": 52,
+    "Uses_ChatGPT": true,
+    "Late_Submissions": 3,
+    "Class_Average": 88.9,
+    "Peer_Support_Count": 2,
+    "Course_ID": "B1"
+  },
+  {
+    "Name": "Yossi Moskovits",
+    "Age": 26,
+    "Uses_ChatGPT": true,
+    "Late_Submissions": 0,
+    "Class_Average": 80.9,
+    "Peer_Support_Count": 6,
+    "Course_ID": "B3"
+  },
+  {
+    "Name": "Yosef Chaim Madmon",
+    "Age": 27,
+    "Uses_ChatGPT": true,
+    "Late_Submissions": 0,
+    "Class_Average": 79.9,
+    "Peer_Support_Count": null,
+    "Course_ID": "B3"
+  },
+  {
+    "Name": "Shmel Kalazan",
+    "Age": 19,
+    "Uses_ChatGPT": false,
+    "Late_Submissions": 0,
+    "Class_Average": 81.4,
+    "Peer_Support_Count": 1,
+    "Course_ID": "C1"
+  },
+  {
+    "Name": "Bestalel Inbal",
+    "Age": 21,
+    "Uses_ChatGPT": false,
+    "Late_Submissions": 0,
+    "Class_Average": 80.1,
+    "Peer_Support_Count": 1,
+    "Course_ID": "C1"
+  },
+  {
+    "Name": "Moshe Hemed",
+    "Age": 15,
+    "Uses_ChatGPT": false,
+    "Late_Submissions": 10,
+    "Class_Average": 80.9,
+    "Peer_Support_Count": 7,
+    "Course_ID": "C1"
+  }
+]
